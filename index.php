@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-    <title>BizLand Bootstrap Template - Index</title>
+    <title>Pay in 4 Installments | Superfly electro Cycles</title>
     <meta content="" name="description" />
     <meta content="" name="keywords" />
 
@@ -53,7 +53,7 @@
           <a href="index.html">BizLand<span>.</span></a>
         </h1>
         Uncomment below if you prefer to use an image logo -->
-        <a href="index.html" class="logo mr-auto"><img src="assets/img/logo-shadowd.png" alt=""></a>-->
+        <a href="index.html" class="logo mr-auto"><img src="assets/img/logo-shadowd.png" alt=""></a>
 
         <nav class="nav-menu d-none d-lg-block">
           <ul>
